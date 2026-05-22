@@ -1,0 +1,11 @@
+---
+date: 2026-05-23T02:07:01+08:00
+source: clipboard
+chars: 215
+---
+
+API Error: 400 400: {'error': 'anthropic_messages: Invalid model name 
+     passed in model=claude-opus-4-7. Call `/v1/models` to view available models
+      for your key.'}                                        
+
+
