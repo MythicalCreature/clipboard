@@ -1,0 +1,21 @@
+---
+date: 2026-05-23T02:31:16+08:00
+source: clipboard
+chars: 393
+---
+
+  Codex will use usage-based billing with your API key.
+ 
+> You are in /Users/zhengzixuan/Documents/ClaudeCode
+ 
+  Do you trust the contents of this directory? Working with untrusted contents
+  comes with higher risk of prompt injection. Trusting the directory allows
+  project-local config, hooks, and exec policies to load.
+ 
+› 1. Yes, continue
+  2. No, quit
+ 
+  Press enter to continue
+
+
+
