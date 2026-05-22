@@ -1,8 +1,7 @@
 ---
-date: 2026-05-23T00:54:57+08:00
+date: 2026-05-23T01:18:27+08:00
 source: clipboard
-chars: 83
+chars: 82
 ---
 
 npm install -g @anthropic-ai/claude-code --registry=https://registry.npmmirror.com
-
