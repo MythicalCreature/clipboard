@@ -1,0 +1,10 @@
+---
+date: 2026-05-23T02:12:38+08:00
+source: clipboard
+chars: 117
+---
+
+ANTHROPIC_DEFAULT_OPUS_MODEL=lite \
+ANTHROPIC_DEFAULT_SONNET_MODEL=lite \
+ANTHROPIC_DEFAULT_HAIKU_MODEL=lite \
+claude
